@@ -1,0 +1,18 @@
+{% extends 'admin/base.html' %}
+{% load static %}
+{% block branding %}
+<style>
+    .adminLogo img{
+        height: 6rem;
+        width: auto;
+    }
+    .adminLogo{
+        color: rgb(255, 255, 255) !important;
+        
+    }
+    #header{
+        background-color: rgb(0, 0, 0) !important;
+    }
+    </style>
+<h1 class="adminLogo"> <img src="{% static 'img/darkLogo.jpg' %}" alt="Still Minute logo" class="">STILL MINUTE ADMIN </h1>
+{% endblock %}
