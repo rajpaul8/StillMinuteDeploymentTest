@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ff9251b3.css",
+    "main.js": "/static/js/main.1be12c08.js",
+    "static/js/787.72d0761e.chunk.js": "/static/js/787.72d0761e.chunk.js",
+    "static/media/AboutUsCollage.jpg": "/static/media/AboutUsCollage.c35a4a96797e4b8a0ad8.jpg",
+    "static/media/AboutUsSection2.mp4": "/static/media/AboutUsSection2.e768d5537bbe9a7671e5.mp4",
+    "static/media/Interiors_Cover.jpg": "/static/media/Interiors_Cover.e9608c8c6932591ca402.jpg",
+    "static/media/Events_Cover.jpg": "/static/media/Events_Cover.cdd7f41719a66291beff.jpg",
+    "static/media/Food_Cover.jpg": "/static/media/Food_Cover.6e7ccb32a2837e1c21cd.jpg",
+    "static/media/Films_Cover.jpg": "/static/media/Films_Cover.9a3b87dad8e4c85797ae.jpg",
+    "static/media/FineArt_Cover.jpg": "/static/media/FineArt_Cover.4343dc5b38f015256390.jpg",
+    "static/media/Weddings_Candid.jpg": "/static/media/Weddings_Candid.3401c55bd9fbd86544be.jpg",
+    "static/media/Weddings_FineArt.jpg": "/static/media/Weddings_FineArt.bda4450490f2c1e9f7e2.jpg",
+    "static/media/Commericial_Residential.jpg": "/static/media/Commericial_Residential.f5349085fcc291897d4f.jpg",
+    "static/media/Weddings_Cover.jpg": "/static/media/Weddings_Cover.9ccc603251946570d2bd.jpg",
+    "static/media/Weddings_Films.jpg": "/static/media/Weddings_Films.9a6eb4bc0314cbc6b8aa.jpg",
+    "static/media/fineart.jpg": "/static/media/fineart.05c3f108db75f752edfc.jpg",
+    "static/media/Akash.jpg": "/static/media/Akash.04afaebc7e4335c74432.jpg",
+    "static/media/Events_Ethnic.jpg": "/static/media/Events_Ethnic.226453455ac1cff568fd.jpg",
+    "static/media/food.jpg": "/static/media/food.15c8e148b90635fdbd31.jpg",
+    "static/media/product.jpg": "/static/media/product.26bd69125e36d0429242.jpg",
+    "static/media/vintage-camera.png": "/static/media/vintage-camera.efaf9e457038905b5fda.png",
+    "static/media/Interiors_Installation.jpg": "/static/media/Interiors_Installation.088309062ed7b1bdd1f4.jpg",
+    "static/media/Siddharth.jpg": "/static/media/Siddharth.f17a1ef3c4504ecff387.jpg",
+    "static/media/Events_MusicDance.jpg": "/static/media/Events_MusicDance.06dc2ce60991bcf34b2c.jpg",
+    "static/media/Product_Cover.jpg": "/static/media/Product_Cover.3144ab6c213cca2813ff.jpg",
+    "static/media/Weddings_Traditional.jpg": "/static/media/Weddings_Traditional.e3f8f8129939a2ea651b.jpg",
+    "static/media/event.jpg": "/static/media/event.c385ec01f94fc6cf09bb.jpg",
+    "static/media/Events_Curated.jpg": "/static/media/Events_Curated.3298607a5e926d8abcb6.jpg",
+    "static/media/interior.jpg": "/static/media/interior.c748c6e9578ef692c76d.jpg",
+    "static/media/darkLogo.jpg": "/static/media/darkLogo.3f5d19dc476dffa88449.jpg",
+    "static/media/SMW_Logo.png": "/static/media/SMW_Logo.d71557e65850326649f9.png",
+    "index.html": "/index.html",
+    "main.ff9251b3.css.map": "/static/css/main.ff9251b3.css.map",
+    "main.1be12c08.js.map": "/static/js/main.1be12c08.js.map",
+    "787.72d0761e.chunk.js.map": "/static/js/787.72d0761e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff9251b3.css",
+    "static/js/main.1be12c08.js"
+  ]
+}
