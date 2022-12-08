@@ -25,7 +25,9 @@ INSTALLED_APPS = [
     # StillMinutePhotographApp
     'StillMinutePhotographs.apps.StillminutephotographsConfig',
     'rest_framework',
-    'corsheaders'
+    'corsheaders',
+    # SSL Certificate bypass
+    "sslserver"
 ]
 
 MIDDLEWARE = [
